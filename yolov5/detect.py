@@ -1,6 +1,6 @@
 # YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
 """
-python3.10 detect.py --weights runs/train/helmet_detection2/weights/last.pt --img 640 --conf 0.25 --source ../papatest1.jpg
+python3.10 detect.py --weights runs/train/helmet_detection2/weights/last.pt --img 640 --conf 0.25 --source 0
 
 Run YOLOv5 detection inference on images, videos, directories, globs, YouTube, webcam, streams, etc.
 
