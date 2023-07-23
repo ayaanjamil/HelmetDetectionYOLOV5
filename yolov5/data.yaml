@@ -1,0 +1,7 @@
+train: data/train
+val: data/val
+# number of classes
+nc: 2
+
+# class names
+names: ['With Helmet', 'Without Helmet']
