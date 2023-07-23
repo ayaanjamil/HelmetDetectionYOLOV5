@@ -11,7 +11,7 @@ I made this Helmet Detection Model using YOLOv5 with a dataset I came across on 
 
 ## Running it on normal traffic
 
-![1.jpg](/Users/ayaan/PycharmProjects/HelmetDetectionYOLOV5/images/1.jpg)
+![1.jpg](/images/1.jpg)
 
 ![2.jpg](/Users/ayaan/PycharmProjects/HelmetDetectionYOLOV5/images/2.jpg)
 
