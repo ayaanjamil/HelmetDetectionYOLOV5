@@ -7,4 +7,22 @@ python detect detect.py --weights runs/train/helmet_detection2/weights/last.pt -
 
 ```
 
+I made this Helmet Detection Model using YOLOv5 with a dataset I came across on Kaggle.
 
+## Running it on normal traffic
+
+![1.jpg](/Users/ayaan/PycharmProjects/HelmetDetectionYOLOV5/images/1.jpg)
+
+![2.jpg](/Users/ayaan/PycharmProjects/HelmetDetectionYOLOV5/images/2.jpg)
+
+This can be used at traffic signals to automatically detect riders who are not wearing helmet.
+
+This model can smartly differentiatiate between a helmet in frame and a helmet on a person's head.
+
+## Running it on CCTV footage
+
+![3.jpg](/Users/ayaan/PycharmProjects/HelmetDetectionYOLOV5/images/3.jpg)
+
+![4.jpg](/Users/ayaan/PycharmProjects/HelmetDetectionYOLOV5/images/4.jpg)
+
+This can be used in ATMs to see whether someone is wearing a helmet or not.
