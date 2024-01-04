@@ -7,7 +7,7 @@ python detect detect.py --weights runs/train/helmet_detection2/weights/last.pt -
 
 ```
 
-I made this Helmet Detection Model using YOLOv5 with a dataset I came across on Kaggle.
+I made this Helmet Detection Model using YOLOv5 with a dataset I came across on Kaggle, along with photos I took.
 
 ## Running it on normal traffic
 
